@@ -1,0 +1,16 @@
+.tabing{
+    border:2px solid rgb(15, 15, 15);
+}
+table thead tr th{
+    border: 1px solid #c52222;
+  }
+body{
+    background-color: aquamarine;
+}
+#tab{
+    border:2px solid black;
+}
+table{
+    display:block;
+    margin:23px 12px;
+}
